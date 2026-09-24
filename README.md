@@ -33,4 +33,4 @@ at **contact@wxops.cloud**, or use the form on the
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Apache-2.0 — see [LICENSE](LICENSE).
