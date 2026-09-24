@@ -85,7 +85,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-white/[0.06] flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-slate-400">
-            © {new Date().getFullYear()} <span className="font-bold">W&apos;xOps. Open source under MIT License.</span>
+            © {new Date().getFullYear()} <span className="font-bold">W&apos;xOps. Open source under Apache-2.0 License.</span>
           </p>
           <p className="text-sm text-slate-400 flex items-center gap-1.5">
             Built with <Heart className="w-3.5 h-3.5 text-rose-500" /> by{' '}

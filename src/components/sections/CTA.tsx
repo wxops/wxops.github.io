@@ -112,7 +112,7 @@ export function CTA() {
             transition={{ duration: 0.6, delay: 0.9 }}
             className="mt-6 text-xs text-slate-400"
           >
-            Open source · MIT License · No vendor lock-in · Self-hosted
+            Open source · Apache-2.0 License · No vendor lock-in · Self-hosted
           </motion.p>
         </motion.div>
       </div>
